@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Mar e Floresta de programação
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Imagem gerada por inteligencia artiificial (AI)
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Feito no LEONARDO.AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+...
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![Default_A_serene_whimsical_illustration_featuring_a_fusion_of_3](https://github.com/user-attachments/assets/e4d6bf04-5f03-489b-9e35-2eeae8b13971)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
