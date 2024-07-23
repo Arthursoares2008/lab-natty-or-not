@@ -32,7 +32,7 @@ Feito no LEONARDO.AI
 ...
 
 ## 🚀 Resultados
-![Default_A_serene_whimsical_illustration_featuring_a_fusion_of_3](https://github.com/user-attachments/assets/e4d6bf04-5f03-489b-9e35-2eeae8b13971)
+
 
 
 ## 💭 Reflexão (Opcional)
